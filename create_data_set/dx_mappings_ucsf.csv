@@ -1,0 +1,62 @@
+label,description,cdtype,lb,ub
+dia,diabetes,D,E10,E10ZZZZ
+dia,diabetes,D,E11,E11ZZZZ
+dia,diabetes,D,E12,E12ZZZZ
+dia,diabetes,D,E13,E13ZZZZ
+dia,diabetes,D,E14,E14ZZZZ
+cvd,cerebrovascular disease,D,G45,G45ZZZZ
+cvd,cerebrovascular disease,D,G46,G46ZZZZ
+cvd,cerebrovascular disease,D,H340,H340ZZZ
+flr,heartfailure,D,I0981,I0981ZZ
+hyp,hypertension,D,I10,I10ZZZZ
+flr,heartfailure,D,I110,I110ZZZ
+hyp,hypertension,D,I119,I119ZZZ
+flr,heartfailure,D,I130,I130ZZZ
+flr,heartfailure,D,I132,I132ZZZ
+hyp,hypertension,D,I15,I159ZZZ
+cad,cardiovascular arterial disease,D,I21,I21ZZZZ
+cad,cardiovascular arterial disease,D,I22,I22ZZZZ
+cad,cardiovascular arterial disease,D,I252,I252000
+flr,heartfailure,D,I255,I255000
+flr,heartfailure,D,I50,I50ZZZZ
+cvd,cerebrovascular disease,D,I60,I69ZZZZ
+pad,peripheral arterial disease,D,I701,I701ZZZ
+pad,peripheral arterial disease,D,I702,I707ZZZ
+pad,peripheral arterial disease,D,I7092,I7092ZZ
+pad,peripheral arterial disease,D,I731,I731ZZZ
+pad,peripheral arterial disease,D,I738,I738ZZZ
+pad,peripheral arterial disease,D,I739,I739ZZZ
+dia,diabetes,I,250,2500000
+hyp,hypertension,I,401,4010000
+hyp,hypertension,I,405,4050000
+cad,cardiovascular arterial disease,I,410,4100000
+cad,cardiovascular arterial disease,I,412,4120000
+cad,cardiovascular arterial disease,I,414,4140000
+flr,heartfailure,I,428,4280000
+cvd,cerebrovascular disease,I,430,4371000
+cvd,cerebrovascular disease,I,4373,4398800
+pad,peripheral arterial disease,I,441,4410000
+pad,peripheral arterial disease,I,443,4430000
+dia,diabetes,I,3572,3572000
+dia,diabetes,I,3620,3620000
+flr,heartfailure,I,3981,3981000
+flr,heartfailure,I,4283,4283000
+flr,heartfailure,I,4293,4293000
+hyp,hypertension,I,4372,4372000
+pad,peripheral arterial disease,I,4401,4404000
+hyp,hypertension,I,6422,6422000
+hyp,hypertension,I,36211,3621100
+dia,diabetes,I,36641,3664100
+hyp,hypertension,I,40200,4020000
+flr,heartfailure,I,40201,4020100
+hyp,hypertension,I,40210,4021000
+flr,heartfailure,I,40211,4021100
+hyp,hypertension,I,40290,4029000
+flr,heartfailure,I,40291,4029100
+flr,heartfailure,I,40401,4040100
+flr,heartfailure,I,40403,4040300
+flr,heartfailure,I,40411,4041100
+flr,heartfailure,I,40413,4041300
+flr,heartfailure,I,40491,4049100
+flr,heartfailure,I,40493,4049300
+pad,peripheral arterial disease,I,V434,V434000
