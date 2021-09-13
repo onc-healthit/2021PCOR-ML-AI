@@ -7,6 +7,19 @@ Innovative artificial intelligence (AI) methods and the increase in computationa
 
 Current AI workflows make it possible to conduct complex studies and uncover deeper insights than traditional analytical methods do. As the volume and availability of electronic health data increases, patient-centered outcomes research (PCOR) investigators need better tools to analyze data and interpret those outcomes. A foundation of high-quality training data is critical to developing robust machine-learning models. Training data sets are essential to train prediction models that use machine learning algorithms, to extract features most relevant to specified research goals, and to reveal meaningful associations.
 
+Through this project, ONC in partnership with National Institutes of Health (NIH) National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), advanced the application of AI/ML in patient-centered outcomes research (PCOR) by generating high quality training datasets for a chronic kidney disease (CKD) use case – predicting mortality within the first 90 days of dialysis.
+
+## Project Goal
+The goal of this project was to conduct foundational work to support future applications of AI/ML to improve PCOR, health and health care delivery.
+This project achieved its goal by:
+•	Establishing a kidney disease-related use case that benefits from ML applications using data from the United States Renal Data System (USRDS)
+•	Identifying and convening a multidisciplinary expert panel to provide input into the criteria for the development of high quality training datasets and provisionally testing these datasets using ML algorithms
+•	Developing machine-learning models and using conventional metrics to evaluate their performance
+•	Capturing lessons learned from the process of developing the training datasets and ML models
+•	Disseminating project tools, activities, and points to consider/lessons learned to encourage future applications of these methods by PCOR researchers
+
+This project began in 2019 and ended in September 2021
+
 See this [blog post](https://www.healthit.gov/buzz-blog/health-it/the-application-of-machine-learning-to-address-kidney-disease) for more background.
 
 Please contact onc.request@hhs.gov with questions about this project and rankin_summer@bah.com with any issues or questions about the code.
