@@ -26,6 +26,23 @@ Please contact onc.request@hhs.gov with questions about this project and rankin_
 
 Please see the detailed implementation guidance provided below or download it as a [pdf](./README.pdf).
 
+## Citate as
+
+Summer K. Rankin. (2021). onc-healthit/2021PCOR-ML-AI: ONC-BAH-1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.5514290
+
+```
+@software{summer_k_rankin_2021_5514290,
+  author       = {Summer K. Rankin},
+  title        = {onc-healthit/2021PCOR-ML-AI: ONC-BAH-1},
+  month        = sep,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.1},
+  doi          = {10.5281/zenodo.5514290},
+  url          = {https://doi.org/10.5281/zenodo.5514290}
+}
+```
+
 
 # Implementation Guidance
 <!-- TOC -->
